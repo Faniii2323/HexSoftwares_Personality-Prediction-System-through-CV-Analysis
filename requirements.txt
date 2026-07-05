@@ -1,0 +1,12 @@
+Technologies Used
+
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- TensorFlow / PyTorch environment support
+- Hugging Face Transformers
+- DistilBERT
+- Joblib
